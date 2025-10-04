@@ -1,0 +1,20 @@
+{
+  "name": "04project",
+  "version": "1.0.0",
+  "description": "This is a complete practice for Backend.",
+  "keywords": [
+    "JavaScript",
+    "Node.js",
+    "Express.js",
+    "EJS",
+    "Mongoose",
+    "MongoDb"
+  ],
+  "license": "ISC",
+  "author": "Bhaskar Vishwakarma",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
