@@ -11,7 +11,7 @@ import fs from "fs";
 
 
 
-const uploadOnCCldinary = async(localFilePath) => {
+const uploadOnCloudinary = async(localFilePath) => {
     try {
         if(!localFilePath) return null
         //upload the file on cloudinary
@@ -29,5 +29,5 @@ const uploadOnCCldinary = async(localFilePath) => {
 }
 
 
-export { uploadOnCCldinary };
+export { uploadOnCloudinary };
     
